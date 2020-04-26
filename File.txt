@@ -1,0 +1,27 @@
+Place  Jamaica     
+Place  Colombia  
+Place  Italy  
+Place  Japan
+Place  Blue-Mountains
+Thing  Kettle  
+Thing  MacBook 
+Thing  Jordan
+Thing  socket
+Thing  Lotion  
+Thing  Calendar  
+Thing  Converse        
+Person Kim-Kardashian   
+Person Lebron-James
+Person Bill-Gates
+Person Bill-Cosby   
+Person Miley-Cyrus
+Phrase Hit-the-sack
+Phrase Kick-the-bucket
+Phrase No-pain-no-gain
+Phrase So-far-so-good
+Phrase Speak-of-the-devil
+Phrase Break-a-leg
+ 
+
+
+	

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WheelProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WheelProject_jar</output-path>
+    <root id="archive" name="WheelProject.jar">
+      <element id="module-output" name="WheelProject" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/18.0.0/annotations-18.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
